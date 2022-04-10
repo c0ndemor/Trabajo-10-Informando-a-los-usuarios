@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="rss_validator.js.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ComunicAlberti SL]]></title>
+        <description><![CDATA[Página web de ComunicAlberti SL]]></description>
+        <link>https://www.comunicalberti.es/</link>
+        <image>
+            <url>https://comunicalberti.es/example.png</url>
+            <title>ComunicAlberti SL</title>
+            <link>https://www.comunicalberti.es/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 09 Apr 2022 19:07:35 GMT</lastBuildDate>
+        <atom:link href="https://www.comunicalberti.es/rss.xml" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Miguel Ángel Conde]]></author>
+        <language><![CDATA[es]]></language>
+        <docs>https://comunicalberti.es/rss/docs.html</docs>
+        <item>
+            <title><![CDATA[Decenas de muertos tras un bombardeo ruso contra una estación de tren]]></title>
+            <description><![CDATA[Las autoridades de Kramatorsk denuncian un nuevo ataque ruso con misiles contra una estación de tren en la región de Donetsk en plena evacuación]]></description>
+            <guid isPermaLink="false">Decenas de muertos tras un bombardeo ruso contra una estación de tren</guid>
+            <dc:creator><![CDATA[Miguel Ángel Conde]]></dc:creator>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guerra Ucrania - Rusia, última hora en directo hoy | EEUU cree que Putin ha renunciado a Kiev]]></title>
+            <description><![CDATA[Lloyd Austin ha explicado que el presidente ruso 'pensaba que podría apoderarse muy rápidamente de Ucrania, capturando muy rápidamente la capital, pero estaba equivocado']]></description>
+            <guid isPermaLink="false">Guerra Ucrania - Rusia, última hora en directo hoy | EEUU cree que Putin ha renunciado a Kiev</guid>
+            <dc:creator><![CDATA[Miguel Ángel Conde]]></dc:creator>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El Pentágono cree que Ucrania puede ganar la guerra a Rusia]]></title>
+            <description><![CDATA[El Pentágono recalca que 'Putin ha logrado exactamente cero de sus objetivos estratégicos dentro de Ucrania']]></description>
+            <guid isPermaLink="false">El Pentágono cree que Ucrania puede ganar la guerra a Rusia</guid>
+            <dc:creator><![CDATA[Miguel Ángel Conde]]></dc:creator>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La guerra en Ucrania, en directo | Von der Leyen y Borrell se reúnen con Zelenski en la devastada Kiev]]></title>
+            <description><![CDATA[La UE, se prepara para una guerra energética total. Las primeras medidas: prohibir la importación de carbón ruso y veto a exportar armas.]]></description>
+            <guid isPermaLink="false">La guerra en Ucrania, en directo | Von der Leyen y Borrell se reúnen con Zelenski en la devastada Kiev</guid>
+            <dc:creator><![CDATA[Miguel Ángel Conde]]></dc:creator>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rusia abre una investigación contra Ucrania por el ataque en Kramatorsk]]></title>
+            <description><![CDATA[El presidente Volodímir Zelenski ha reiterado la necesidad de ampliar el envío de armas a Ucrania y de aumentar las sanciones contra Rusia]]></description>
+            <guid isPermaLink="false">Rusia abre una investigación contra Ucrania por el ataque en Kramatorsk</guid>
+            <dc:creator><![CDATA[Miguel Ángel Conde]]></dc:creator>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
